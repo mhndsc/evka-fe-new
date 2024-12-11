@@ -58,5 +58,8 @@
     "relay-compiler": "^9.0.0",
     "relay-compiler-language-typescript": "^12.0.0",
     "relay-config": "^9.0.0"
+  },
+  "engines": {
+    "node": "12.22.12"
   }
 }
